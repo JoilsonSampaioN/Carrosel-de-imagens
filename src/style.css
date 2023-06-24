@@ -20,16 +20,16 @@
     opacity: 1;
 }
 .slide-rosa {
-    background-image: url(src/imgs/wallpaperflare.com_wallpaper.jpg);
+    background-image: url(../src/imgs/wallpaperflare.com_wallpaper.jpg);
 }
 .slide-vermelho{
-    background-image: url(src/imgs/wallpaperflare.com_wallpaper\ \(1\).jpg);
+    background-image: url(../src/imgs/wallpaperflare.com_wallpaper\ \(1\).jpg);
 }
 .slide-verde{
-    background-image: url(src/imgs/wallpaperflare.com_wallpaper\ \(2\).jpg);
+    background-image: url(../src/imgs/wallpaperflare.com_wallpaper\ \(2\).jpg);
 }
 .slide-laranja{
-    background-image: url(src/imgs/wallpaperflare.com_wallpaper\ \(3\).jpg);
+    background-image: url(../src/imgs/wallpaperflare.com_wallpaper\ \(3\).jpg);
 }
 .seta-voltar, .seta-avancar{
     position: absolute;
